@@ -1,1 +1,2 @@
-# This is my local repo
+Your merged changes without conflict markers
+
